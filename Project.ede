@@ -1,0 +1,10 @@
+;; Object Atled
+;; EDE Project Files are auto generated: Do Not Edit
+(ede-proj-project "Atled"
+  :file "Project.ede"
+  :name "Atled"
+  :targets nil
+  :configurations '("debug" "release")
+  :object-name "Atled"
+  :makefile-type Makefile
+  :configuration-variables '("debug" (("DEBUG" . "1"))))
